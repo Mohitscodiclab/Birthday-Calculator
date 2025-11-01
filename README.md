@@ -2,7 +2,7 @@
 
 A sleek, **modern web app** that calculates your exact age in **years, months, days, hours, minutes, and seconds** — all wrapped in a **beautiful extreme dark mode** UI.
 
-🌐 **Live Demo:** [Calculate Age](https://www.github.com/mohitscodiclab/birthdaycalcultor)
+🌐 **Live Demo:** [Calculate Age](https://mohitscodiclab.github.io/Birthday-Calculator/)
 
 ---
 
