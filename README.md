@@ -29,8 +29,8 @@ A sleek, **modern web app** that calculates your exact age in **years, months, d
 
 ## 🖥️ Preview
 
-![App Preview](asset/img/screenshot.png)
-*(Add a screenshot of your project here — name it `screenshot.png` and place it in your `asset/img/` folder.)*
+<img width="1887" height="959" alt="Screenshot 2025-11-01 194725" src="https://github.com/user-attachments/assets/b0d9da4c-6495-489f-8dc0-2e5a8cc0f7cf" />
+<img width="1890" height="959" alt="Screenshot 2025-11-01 194809" src="https://github.com/user-attachments/assets/4b3b9f8f-e01c-47e7-a430-4d7f9eb48dcb" />
 
 ---
 
