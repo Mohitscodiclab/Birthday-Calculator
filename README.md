@@ -53,7 +53,7 @@ A sleek, **modern web app** that calculates your exact age in **years, months, d
 ## 🔗 Connect with Me
 
 * 💻 **GitHub:** [@mohitscodiclab](https://github.com/mohitscodiclab)
-* 📸 Instagram: [@Official_mohit_10x](https://instagram.com/official_mohit_10x)
+* 📸 Instagram: [@iammohitpndy](https://instagram.com/iammoitpndy)
 
 ---
 
